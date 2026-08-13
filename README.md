@@ -19,6 +19,12 @@ AIExtractor is an AI-powered meeting assistant that converts recorded meeting au
 - 🌐 **REST API** — Flask backend for frontend integration
 - 🔗 **CORS Support** — Ready for frontend-backend communication
 
+
+
+<img width="617" height="898" alt="Screenshot 2026-08-13 215837" src="https://github.com/user-attachments/assets/7fb73ba3-94c1-4280-afd6-5222489f2df3" />
+
+
+
 ---
 
 ## 🏗️ How It Works
